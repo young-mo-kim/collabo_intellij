@@ -5,5 +5,6 @@ public class World {
 
 
         System.out.println("World01");
+        System.out.println("World02");
     }
 }

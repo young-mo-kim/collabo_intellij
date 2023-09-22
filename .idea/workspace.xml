@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="edf5889c-0cc9-49a7-b918-1464fec635a8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch01/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch01/World.java" afterDir="false" />
+    <list default="true" id="edf5889c-0cc9-49a7-b918-1464fec635a8" name="Changes" comment="Hello 클래스 수정">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch01/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch01/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch01/World.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch01/World.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +74,39 @@
       <option name="presentableId" value="Default" />
       <updated>1695343601364</updated>
     </task>
+    <task id="LOCAL-00001" summary="개발 팀장 '김철수'의 첫번째 커밋입니다.">
+      <option name="closed" value="true" />
+      <created>1695344718659</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695344718660</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Hello 클래스 수정">
+      <option name="closed" value="true" />
+      <created>1695345080041</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695345080041</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="개발 팀장 '김철수'의 첫번째 커밋입니다." />
+    <MESSAGE value="Hello 클래스 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hello 클래스 수정" />
   </component>
 </project>
